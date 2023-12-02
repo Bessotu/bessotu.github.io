@@ -1388,6 +1388,7 @@ html {
 }
 
 body {
+  /* background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%); */
   background-image: url("images/overlay.png"), url("images/bg3.png");
   background-repeat: repeat, no-repeat;
   background-size: auto, 100% 100%;
