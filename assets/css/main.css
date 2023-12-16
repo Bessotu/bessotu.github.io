@@ -2,10 +2,9 @@
 @import url("fontawesome-all.min.css");
 
 /*
-	Astral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+  project ini dibuat berdasarkan Astral by HTML5 UP
+  segala modifikasi yang saya buat adalah murni dari ide saya
+  */
 
 html,
 body,
@@ -2293,4 +2292,10 @@ body.is-preload #wrapper {
 
 .line-107 {
   border-top: 1px solid #ccc;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
